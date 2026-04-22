@@ -1,0 +1,17 @@
+{
+  "name": "luminari-I",
+  "version": "1.0.0",
+  "description": "Luminaria Imagineerium - A shared space where imagination becomes action",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "motion/react": "latest",
+    "lucide-react": "latest"
+  }
+}
