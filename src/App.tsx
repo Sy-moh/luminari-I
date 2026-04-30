@@ -22,10 +22,7 @@ import React, { useState, useEffect, useRef, ReactNode } from 'react';
 // Imported assets for guaranteed bundling on Vercel
 import visionPuzzle from './assets/images/vision_puzzle.png';
 import visionConnection from './assets/images/vision_connection.mp4';
-import galleryImg from './assets/images/gallery.png';
 import hubImg from './assets/images/hub.png';
-import bridgeImg from './assets/images/bridge.png';
-import hourglassImg from './assets/images/hourglass.png';
 
 const FUNDRAISING_URL = "https://fundraising.fracturedatlas.org/the-luminaria-imagineerium/general_support";
 
