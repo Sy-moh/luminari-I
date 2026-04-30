@@ -502,7 +502,7 @@ const SupportBuildingSection = () => {
       {
         title: "The Thriving World Gallery",
         description: "A digital space where visions of a better future can be shared, explored, and celebrated, making visible what's possible when imagination has room to breathe.",
-        image: galleryImg
+        image: '/images/vision_action.png'
       },
       {
         title: "A Hub for Visionaries",
@@ -512,7 +512,7 @@ const SupportBuildingSection = () => {
       {
         title: "A Stepping Stone to Reality",
         description: "A bridge from isolated sparks of imagination to a shared, living blueprint for a more sustainable, just, and thriving world.",
-        image: bridgeImg
+        image: '/images/vision_puzzle.png'
       }
     ];
 
